@@ -9,6 +9,7 @@ This project includes a shopping interface with product display, cart functional
 ## Repository
 
 - GitHub: https://github.com/shivamkumar203/electro-mart
+- Live demo: https://ecom-electromart.netlify.app/
 
 ## Getting Started
 
